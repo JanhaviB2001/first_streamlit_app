@@ -1,5 +1,5 @@
 import streamlit
 streamlit.title('Travel Wishlist')
 
-streamlit.write('In Maharashtra')
-streamlit.markdown("1.Kaspathaar\n2.Tadoba")
+streamlit.header('In Maharashtra')
+streamlit.text("1.Kaspathaar\t 2.Tadoba")
